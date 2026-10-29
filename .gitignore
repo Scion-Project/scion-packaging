@@ -1,0 +1,5 @@
+# What the tools here make carries iOS's own files (the system image, from your IPSW) and Samsung's: never committed.
+*.zip
+*.img
+*.apfs
+out/
